@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "f9ca",
+      "pseudo": "Safiya",
+      "message": "Hello World!"
+    }
+  ],
+  "users": [
+    {
+      "id": "3a0c",
+      "pseudo": "Safiya",
+      "age": 19
+    }
+  ]
+}
