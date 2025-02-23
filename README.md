@@ -1,2 +1,2 @@
 # API-projects
-My API projects
+My mainly API related projects
